@@ -3,6 +3,8 @@ In this project I collected data about olympic games and transformed it in SQL S
 
 The main goal is to show historical performance for different countries, with the possibility to select your own country, favorite sport or competitor.
 
+![OlympicGames](https://user-images.githubusercontent.com/61323876/135508380-0844179b-07b7-449f-ab7f-9a801c93591a.jpg)
+
 ## Data Source
 The data is collected from [this](https://www.dropbox.com/s/3sxwx52o3x8ozj7/olympic_games.bak?dl=0) database backup file restored into SQL.
 
@@ -10,7 +12,10 @@ The data is collected from [this](https://www.dropbox.com/s/3sxwx52o3x8ozj7/olym
 ## Data Collection
 The necessary data was first put into a SQL database and afterwards transformed using the instructions that you can see below.
 
+You can check the source SQL file [here](https://github.com/FilipeTheAnalyst/DataAnalystProject_SQL_PBI_OlympicGamesAnalysis/blob/main/DataAnalystProject_SQL_PBI_OlympicGamesAnalysis.sql)
+
 __Olympic Games View__
+
 ```
 SELECT
          [ID]
