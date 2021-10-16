@@ -68,7 +68,7 @@ CALCULATE (
 ```
 
 ## Dashboards
-The finished dashboard consists of visualizations and filters that gives an easy option for the end users to navigate the summer games through history. Some possibilities are to filter by period using year, nation code to focus on one country or search for either a competitor or specific sports over time.
+The finished dashboard consists of visualizations and filters that give an easy option for the end users to navigate the summer games through history. Some possibilities are to filter by period using year, nation code to focus on one country or search for either a competitor or specific sports over time.
 
 All the dashboards are interactive with each other so if you click on a specific sport, competitor, country or gender in their respective dashboards all the others adjust to focus on that information.
 
